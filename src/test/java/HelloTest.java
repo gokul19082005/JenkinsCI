@@ -3,7 +3,7 @@ import static org.junit.Assert.*;
 public class HelloTest {
     @Test
     public void textmessage(){
-        String msg="Hello";
-        assertEquals("Hello",msg);
+        String msg="hi";
+        assertEquals("hi",msg);
     }
 }
